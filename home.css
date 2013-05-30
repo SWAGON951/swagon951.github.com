@@ -1,0 +1,25 @@
+body {
+	background-image:url('use_your_illusion.png'); 
+	color:blue;
+}
+
+img {
+	width:320;
+	height:240;
+}
+
+p {
+	width:75%px;
+}
+
+#sidebar {
+	width:25%;
+	background-color:gray;
+	float:right;
+	color:black;
+}
+
+#content {
+	width:75%;
+}
+
